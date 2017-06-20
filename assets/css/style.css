@@ -1,1 +1,49 @@
 /* Holiii otra vez */
+*{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.navbar-inverse{
+	background-color: transparent;
+	border: 1px solid #F06292;
+}
+.navbar-inverse h2{
+	font-weight: 700;
+}
+.navbar-inverse h2 small{
+	font-weight: 700;
+	color: #F06292;
+}
+.navbar-inverse .navbar-nav li a{
+	color: black;
+	transition: .5s all ease;
+}
+.navbar-inverse .navbar-nav li a i{
+	color: #F06292;
+	font-weight: 700;
+	font-size: 2rem;
+	transition: .5s all ease;
+}
+.navbar-inverse .navbar-nav li a:hover{
+	color: #f09cb8;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s all ease
+	text-shadow: 2px 2px #ff0000;
+}
+.foto-mujer{
+	height: 425px;
+	width: 100%
+}
+.foto-ninos{
+	height: 294px;
+	width: 100%;
+	padding-bottom: 30px;
+}
+.foto-mujer-flor{
+	width: 100%;
+	margin: 0 auto;
+}
+.foto-familia{
+	height: 131px;
+	width: 100%;
+}
