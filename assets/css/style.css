@@ -2,6 +2,7 @@
 *{
 	font-family: 'Merriweather Sans', sans-serif;
 }
+/*NAVBAR*/
 .navbar-inverse{
 	background-color: transparent;
 	border: 1px solid #F06292;
@@ -30,20 +31,21 @@
 	transition: .5s all ease
 	text-shadow: 2px 2px #ff0000;
 }
-.foto-mujer{
+/*SECCION FOTOS PRINCIPALES*/
+.second-section .foto-mujer{
 	height: 425px;
 	width: 100%
 }
-.foto-ninos{
+.second-section .foto-ninos{
 	height: 294px;
 	width: 100%;
 	padding-bottom: 30px;
 }
-.foto-mujer-flor{
+.second-section .foto-mujer-flor{
 	width: 100%;
 	margin: 0 auto;
 }
-.foto-familia{
+.second-section .foto-familia{
 	height: 131px;
 	width: 100%;
 }
